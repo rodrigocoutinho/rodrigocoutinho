@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Support analyst
-- 🌱 I’m currently learning languages Java and Javascript
+- 🔭 I’m currently working on Software Engineer
+- 🌱 I am currently working with the Java language
 ##
 <div align="center">
   <a href="https://github.com/rodrigocoutinho">
